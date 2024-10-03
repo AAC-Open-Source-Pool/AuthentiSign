@@ -35,7 +35,7 @@ def capture_image():
 
             cv2.imshow('Video', frame)
 
-            # Implement logic to capture image on button press (e.g., space key)
+
             if cv2.waitKey(1) & 0xFF == ord(' '):
                 cap.release()
                 cv2.destroyAllWindows()
