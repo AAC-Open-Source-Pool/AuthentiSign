@@ -9,3 +9,9 @@
 <p> Jythraa Tota</p>
 <p> Gundeboina Sameeksha</p>
 <p> Gidugu Shanmukha Pavani Manishri</p>
+
+<div align="center">
+  <img src="[logo url](https://imgur.com/a/GZeJsc6)">
+
+</div>
+<p align="center">Abstract</p>
