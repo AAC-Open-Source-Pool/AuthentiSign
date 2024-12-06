@@ -25,7 +25,7 @@
 ## Requirements
 |||
 |--|--|
-|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src=" (https://imgur.com/a/WdmmBIv) " width="131px" height="25px"></a><br>|
+|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src="[ (https://imgur.com/a/WdmmBIv)] " width="131px" height="25px"></a><br>|
 
 ## Installation and usage
 Step by step process of cloning the project, installments needed and how to use it
