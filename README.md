@@ -27,7 +27,7 @@
 - [Contribution](#contribution)
 ## Requirements
 |||
-|<p>Name<p>|--|
+|<p>Name</p>|Details|
 | [3.11.9](https://www.python.org/downloads/release/python-3119/) | <img src="https://i.imgur.com/3I4ZCvh.png" width="131px" height="25px"> |
 
 
