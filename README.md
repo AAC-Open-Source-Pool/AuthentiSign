@@ -15,7 +15,7 @@
 
 </div>
 
-<p align="center"><b>Abstact</b> </p> <br>
+<h2>Abstract</h2>
 <p> AuthentiSign is a project designed to detect signature forgery. The system captures the handwritten signature, extracts its Histogram of Oriented Gradients (HOG) features, and securely stores these features in a CSV file for reference. When verifying authenticity, the system compares the HOG features of a test signature against the stored features of the original signature, and uses cosine similarity and Correlation Factor to calculate the similarity score providing a reliable method for detecting forgery. AuthentiSign can be implemented in sectors like banking, and legal documentation, where handwritten signatures are commonly used for authentication. </p>
 
 ## Table of Contents
