@@ -25,7 +25,7 @@
 ## Requirements
 |||
 |--|--|
-|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src="new2.png" width="131px" height="25px" alt="Description">
+|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src="(https://drive.google.com/uc?export=download&id=1Co7mfBeCI30FC4-Eqtamq72Nmy6Y3z0w)" width="131px" height="25px"></a><br>|
 
 
 ## Installation and usage
