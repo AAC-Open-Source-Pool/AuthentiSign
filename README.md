@@ -75,7 +75,7 @@ The application will:
 
 ## Preview
 Screenshots of the project
-<img src="https://i.imexampleImage.jpggur.com/" alt="Screenshot of the project">
+<img src="https://i.imgur.com/8NWKec4.jpeg">
 
 
 
