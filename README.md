@@ -69,7 +69,8 @@ The application will:
 
 ## Preview
 Screenshots of the project
-<img src="(https://i.imgur.com/cxvc8V2.png)" alt="Screenshot of the project">
+<img src="https://i.imexampleImage.jpggur.com/" alt="Screenshot of the project">
+
 
 
 ## Contribution 
