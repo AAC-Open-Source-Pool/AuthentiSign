@@ -28,7 +28,7 @@
 ## Requirements
 |||
 |--|--|
-|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src="https://imgur.com/a/P8BUUyb" width="131px" height="25px"></a><br>|
+|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src="![new2](https://github.com/user-attachments/assets/7619c83f-4d5a-42f2-b9a7-9b78d28e1f6a)" width="131px" height="25px"></a><br>|
 
 
 ## Installation and usage
