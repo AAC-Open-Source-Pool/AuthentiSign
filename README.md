@@ -70,8 +70,8 @@ The application will:
 - Check if the account number exists in the CSV file.
 - If it’s a new account, the signature’s HOG features are saved.
 - The application displays results:
- -> "Signature is Original": If the similarity and correlation exceed the thresholds.
- -> "Signature is Forged": If thresholds are not met.
+  -> "Signature is Original": If the similarity and correlation exceed the thresholds.
+  -> "Signature is Forged": If thresholds are not met.
 
 ## Preview
 Screenshots of the project
