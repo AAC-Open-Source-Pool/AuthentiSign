@@ -69,7 +69,11 @@ The application will:
 
 ## Preview
 Screenshots of the project
-<img src="(https://imgur.com/a/1IKXvHp)">
+<img src="https://imgur.com/a/1IKXvHp" alt="Screenshot of the project">
+## Preview
+Screenshots of the project
+<img src="https://i.imgur.com/exampleImage.jpg" alt="Screenshot of the project">
+
 
 ## Contribution 
 **This section provides instructions and details on how to submit a contribution via a pull request. It is important to follow these guidelines to make sure your pull request is accepted.**
