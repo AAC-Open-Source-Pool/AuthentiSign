@@ -11,7 +11,7 @@
 <p> Gidugu Shanmukha Pavani Manishri</p>
 
 <div align="center">
-  <img src="[logo url](https://imgur.com/a/GZeJsc6)">
+  <img src="https://i.imgur.com/IwDDaZj.jpeg">
 
 </div>
 
