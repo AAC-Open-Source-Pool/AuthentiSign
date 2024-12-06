@@ -69,10 +69,7 @@ The application will:
 
 ## Preview
 Screenshots of the project
-<img src="https://imgur.com/a/1IKXvHp" alt="Screenshot of the project">
-## Preview
-Screenshots of the project
-<img src="https://i.imgur.com/exampleImage.jpg" alt="Screenshot of the project">
+<img src="(https://i.imgur.com/cxvc8V2.png)" alt="Screenshot of the project">
 
 
 ## Contribution 
