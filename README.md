@@ -14,7 +14,8 @@
   <img src="[logo url](https://imgur.com/a/GZeJsc6)">
 
 </div>
-<p align="center">Abstract</p>
+<p>Abstract</p>
+<p align="center">AuthentiSign is a project designed to detect signature forgery. The system captures the handwritten signature, extracts its Histogram of Oriented Gradients (HOG) features, and securely stores these features in a CSV file for reference. When verifying authenticity, the system compares the HOG features of a test signature against the stored features of the original signature, and uses cosine similarity and Correlation Factor to calculate the similarity score providing a reliable method for detecting forgery. AuthentiSign can be implemented in sectors like banking, and legal documentation, where handwritten signatures are commonly used for authentication.</p>
 ## Table of Contents
 
 - [Introduction](#introduction) <br>
@@ -25,7 +26,7 @@
 ## Requirements
 |||
 |--|--|
-|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src="(https://drive.google.com/uc?export=download&id=1Co7mfBeCI30FC4-Eqtamq72Nmy6Y3z0w)" width="131px" height="25px"></a><br>|
+|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src="https://imgur.com/a/P8BUUyb" width="131px" height="25px"></a><br>|
 
 
 ## Installation and usage
