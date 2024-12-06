@@ -25,7 +25,7 @@
 ## Requirements
 |||
 |--|--|
-|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src=" (https://imgur.com/a/rGhxETx) " width="131px" height="25px"></a><br>|
+|[3.11.9](https://www.python.org/downloads/release/python-3119/)|<img src=" (https://imgur.com/a/WdmmBIv) " width="131px" height="25px"></a><br>|
 
 ## Installation and usage
 Step by step process of cloning the project, installments needed and how to use it
@@ -69,8 +69,7 @@ The application will:
 
 ## Preview
 Screenshots of the project
-<img src="https://imgur.com/a/BuUOX1G">
-<img src="url">
+<img src="(https://imgur.com/a/1IKXvHp)">
 
 ## Contribution 
 **This section provides instructions and details on how to submit a contribution via a pull request. It is important to follow these guidelines to make sure your pull request is accepted.**
