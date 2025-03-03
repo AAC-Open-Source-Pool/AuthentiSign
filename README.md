@@ -58,14 +58,14 @@ Follow these steps to use the application:
 - Navigate to the project directory where the Python script is located.
 - Run the Streamlit application.
 
-3.Enter Account Number and Capture Image
+2. Enter Account Number and Capture Image
 - In the input field labeled "Enter Account Number", type the account number associated with the signature.
 - Click the "Capture Image" button to start the video stream from your configured IP camera.
 - A live feed will appear in a separate window.
 - Press the spacebar to capture an image of the signature.
 - The captured image will be displayed on the Streamlit interface.
 
-4. Verify the Signature
+3. Verify the Signature
 The application will:
 - Check if the account number exists in the CSV file.
 - If it’s a new account, the signature’s HOG features are saved.
